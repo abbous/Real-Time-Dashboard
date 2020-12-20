@@ -1,0 +1,31 @@
+{
+  "location": [
+    {
+      "id": "1",
+      "country": "Tunisia",
+      "region": "Gabes",
+      "temperatue": "30",
+      "humidity": "40",
+      "lat": "36.803",
+      "lon": "10.180"
+    },
+    {
+      "id": "1",
+      "country": "Tunisia",
+      "region": "Gabes",
+      "temperatue": "30",
+      "humidity": "40",
+      "lat": "36.803",
+      "lon": "10.180"
+    },
+    {
+      "id": "1",
+      "country": "Tunisia",
+      "region": "Gabes",
+      "temperatue": "30",
+      "humidity": "40",
+      "lat": "36.803",
+      "lon": "10.180"
+    }
+  ]
+}
